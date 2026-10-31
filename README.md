@@ -13,7 +13,15 @@ The app supports multiple country profiles, with document categories and names a
 - Choose the app language independently from the selected country
 - Customize the theme, colors, and text size
 
-## Screenshots
+<p align="center">
+  <img src="images/1.png" width="48%" alt="TireMark screenshot 1">
+  <img src="images/2.png" width="48%" alt="TireMark screenshot 2">
+  <br>
+  <img src="images/3.png" width="48%" alt="TireMark screenshot 3">
+  <img src="images/4.png" width="48%" alt="TireMark screenshot 4">
+  <br>
+  <img src="images/5.png" width="48%" alt="TireMark screenshot 5">
+</p>
 
 ## Download
 
