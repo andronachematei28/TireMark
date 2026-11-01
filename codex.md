@@ -1,5 +1,3 @@
-# OpenAI Codex Contribution
-
 TireMark was conceived, planned, and directed by andronachematei28. The project’s purpose, feature requirements, country and language needs, visual preferences, and product decisions came from the project owner.
 
 OpenAI Codex provided substantial AI-assisted software development support. TireMark is built with C# and .NET, using Windows Presentation Foundation (WPF) and XAML for its desktop interface, and SQLite for persistent vehicle and document data. Codex helped implement and refine the application’s garage and vehicle-detail screens, document records and history, country-aware categories, multilingual interface, settings, themes, colors, and text scaling.
