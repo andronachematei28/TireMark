@@ -6,21 +6,46 @@ The app supports multiple country profiles, with document categories and names a
 
 ## Features
 
-- Manage multiple vehicles in one garage
-- Track inspections, insurance, road taxes, and renewal dates
-- View document status and history
-- Use multiple country profiles
-- Choose the app language independently from the selected country
-- Customize the theme, colors, and text size
+### Manage multiple vehicles
+
+Keep your vehicles in one garage, add a photo to each car, and drag cards into the order you want.
+
+![TireMark garage with two vehicles and color-coded document statuses](images/2.png)
+
+<details>
+<summary>See garage sorting and vehicle editing</summary>
+
+![Garage sorting mode with drag handles below the vehicle cards](images/3.png)
 
 <p align="center">
-  <img src="images/1.png" width="48%" alt="TireMark screenshot 1">
-  <img src="images/2.png" width="48%" alt="TireMark screenshot 2">
-  <br>
-  <img src="images/3.png" width="48%" alt="TireMark screenshot 3">
-  <img src="images/5.png" width="50%" alt="TireMark screenshot 5">
-  <br>
-  <img src="images/4.png" width="60%" alt="TireMark screenshot 4">
+  <img src="images/4.png" width="420" alt="Vehicle editor with a photo, car name, registration number, and VIN">
+</p>
+
+</details>
+
+### Track inspections, insurance, and road taxes
+
+Check which documents are valid, due soon, or already expired. Open any vehicle to see renewal dates and review its document history.
+
+![Vehicle details showing road tax, MOT, insurance, and previous records](images/1.png)
+
+### Keep separate garages for different countries
+
+Switch between country profiles to see local document names and categories. Choose the app language independently of the active country.
+
+<p align="center">
+  <img src="images/6.png" width="600" alt="Country profiles and the searchable Add country dialog">
+</p>
+
+### Customize your garage and set reminders
+
+- Adjust button and background colors, brightness, and text size.
+- Switch between standard and compact cards, and choose whether to show the VIN and registration number.
+- Set how many days before expiry a document is flagged, and schedule reminders as TireMark pop-ups on Windows or system notifications on Android.
+- Export and import `.tiremark` files to back up your garage or transfer your vehicles, photos, document history, and custom order between Windows and Android.
+
+<p align="center">
+  <img src="images/5.png" width="520" alt="TireMark settings for appearance, card layout, expiry reminders, and garage data transfer">
 </p>
 
 ## Download
